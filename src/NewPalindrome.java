@@ -5,6 +5,7 @@ public class NewPalindrome {
         int t = sc.nextInt();
         while (t > 0) {
             String s = sc.next();
+            // go for half of the hashmap traverse and check if their are more than 1 than newpalindrome is posible
             HashSet<Character> set = new HashSet<>();
             int n = s.length();
             int half = n / 2;
