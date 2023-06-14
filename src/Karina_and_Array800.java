@@ -12,5 +12,6 @@ public interface Karina_and_Array800 {
             Arrays.sort(arr);
             System.out.println(Math.max((arr[0] * arr[1]), (arr[n - 1] * arr[n - 2])));
         }
+        //find gteatest
     }
 }
