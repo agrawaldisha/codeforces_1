@@ -1,5 +1,5 @@
 import java.util.*;
-public interface Karina_and_Array800 {
+public class Karina_and_Array800 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
