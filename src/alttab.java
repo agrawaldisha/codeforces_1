@@ -1,3 +1,4 @@
+//package codeforecs_800;
 import java.util.*;
 public class alttab {
     public static void main(String[] args) {
