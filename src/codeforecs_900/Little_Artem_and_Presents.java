@@ -4,6 +4,7 @@ public class Little_Artem_and_Presents {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
+        // put in the mathematical formula
         System.out.println((2 * n + 1) / 3);
     }
 }
