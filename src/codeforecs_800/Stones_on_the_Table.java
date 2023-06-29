@@ -3,6 +3,7 @@ package codeforecs_800;
 import java.util.*;
 public class Stones_on_the_Table {
     public static void main(String[] args) {
+
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int count=0;
